@@ -13,7 +13,7 @@ public class writeKey {
     }
 
     public static void main (String []args) throws NoSuchAlgorithmException {
-        writeKey key = new writeKey();
+        new writeKey();
     }
 
 }
